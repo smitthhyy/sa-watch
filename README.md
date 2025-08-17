@@ -75,7 +75,8 @@ Notes:
 ## Running
 From the project directory:
 ```
-. .venv/bin/activate
+cd sa-watch
+bin/activate
 python sa-watch.py
 ```
 On each run the script:
