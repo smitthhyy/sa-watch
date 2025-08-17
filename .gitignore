@@ -1,0 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.idea
+.idea/*
+.git
+.git/*
+Include
+Include/*
+Lib
+Lib/*
+Scripts
+Scripts/*
+pyvenv.cfg
