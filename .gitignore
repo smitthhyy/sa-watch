@@ -3,6 +3,7 @@
 .idea/*
 .git
 .git/*
+.env
 Include
 Include/*
 Lib
